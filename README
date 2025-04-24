@@ -1,0 +1,10 @@
+Um sistema de gerenciamento de notas de alunos para calcular a média geral, encontrar a maior nota e listar os alunos que estão abaixo da média. O projeto foi feito com o uso de arrays 1D e métodos de cálculo.
+
+Funcionalidades:
+Armazena as notas de n alunos.
+
+Calcula a média geral das notas.
+
+Encontra a maior nota.
+
+Lista os alunos abaixo da média.
